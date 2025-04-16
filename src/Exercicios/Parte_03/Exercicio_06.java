@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios.Parte_03;
 
 public class Exercicio_06 {
     public static class Veiculo {

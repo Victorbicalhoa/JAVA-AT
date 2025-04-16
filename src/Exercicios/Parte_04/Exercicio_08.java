@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios.Parte_04;
 
 public class Exercicio_08 {
 

@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios.Parte_01;
 
 public class OlaMundo {
 

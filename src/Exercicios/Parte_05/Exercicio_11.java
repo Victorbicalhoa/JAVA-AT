@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios.Parte_05;
 
 import java.util.HashSet;
 import java.util.Random;
